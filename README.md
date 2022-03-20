@@ -1,5 +1,5 @@
 # Hi, I'm Haylie! 💐
-> ### As a junior frontend developer, <br>I always consider both user and my team, and strongly believe my consistency. 📚✨<br>
+> #### As a junior frontend developer, <br><br>I always consider both user and my team, and strongly believe my consistency. 📚✨<br>
 
 - ✍ [Notion Portfolio (kor)](https://virtual-garden.notion.site/7ac75ca78b05492ebdced84e8866fc18)
 - 💌 fallingstars2749@gmail.com<br><br>

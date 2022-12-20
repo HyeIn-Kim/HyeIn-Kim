@@ -15,7 +15,8 @@
 ## 📚 Education
 |Period|Activity|
 |--|--|
-|2022.07 ~ Now|Samsung Software Academy for Youth(SSAFY) 7th Coach
+|2023.01 ~ |Samsung Networks SW Engineer|
+|2022.07 ~ 2022.11|Samsung Software Academy for Youth(SSAFY) 7th Coach
 |2021.07 ~ 2022.06|Samsung Software Academy for Youth(SSAFY) 6th, Java Track|
 |2016.03 ~ 2021.02|Sejong University, Department of Software (Digital Contents)|
 

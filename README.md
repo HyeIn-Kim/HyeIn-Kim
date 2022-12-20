@@ -12,7 +12,7 @@
 - 💌 hayliekim.dev@gmail.com<br><br>
 
 
-## 📚 Education
+## 📚 Education & Career
 |Period|Activity|
 |--|--|
 |2023.01 ~ |Samsung Networks SW Engineer|
